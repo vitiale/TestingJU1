@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da9a67c0-b38f-48d5-8aad-cbede0a32a55" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/flight/Flight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/flight/FlightController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/flight/ModelFlight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/passenger/Passenger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/passenger/PassengerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/passenger/Sex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FlightControllerOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FlightControllerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PassengerControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -11,7 +11,7 @@ import java.util.TreeSet;
 public class Main {
 
     public static void main(String args[]){
-        System.out.println("Hola hola");
+        System.out.println("Learning how can I testing my programs");
 
         Passenger p1 = new Passenger("Victor A. Liriano Luis", 32, Sex.MALE);
         Passenger p2 = new Passenger("Pedro Rodriguez", 23, Sex.MALE);
